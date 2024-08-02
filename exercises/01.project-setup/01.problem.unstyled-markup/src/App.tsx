@@ -3,7 +3,7 @@ export default function App() {
 		<>
 			<p>Let's build something epic!</p>
 			{/*
-				🐨 1. Import the { EpicStackLogo } component from the './logos/logos.tsx' file. 
+				🐨 1. Import the { EpicStackLogo } component from the './logos/logos.ts' file. 
 				Render it with a width and height of level 20
 			*/}
 
@@ -21,7 +21,7 @@ export default function App() {
 			*/}
 
 			{/* 
-				🐨 4. Import the { logos } from the './logos/logos.tsx' file.
+				🐨 4. Import the { logos } from the './logos/logos.ts' file.
 
 					1. Add an `ul` for the logos list.
 					2. Iterate over the `logos` array and render an `li` for each logo.
