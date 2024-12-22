@@ -9,7 +9,7 @@ export default function App() {
 				The first one is the full-page container. It needs to:
 				- have at minimum the full screen height (min-h-screen) 
 				- centers its children with a grid (grid place-items-center)
-				- handle horizontal and verticall padding (see Figma)
+				- handle horizontal and vertical padding (see Figma)
 		*/}
 
 			{/*

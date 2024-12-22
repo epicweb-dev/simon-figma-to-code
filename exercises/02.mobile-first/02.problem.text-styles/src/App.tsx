@@ -8,7 +8,7 @@ export default function App() {
 					🐨
 						Set a max-width of 'md' on the wrapping div below.
 						Center the elements horizontally:
-					- Setup a veritcal flexbox container with 'flex flex-col'
+					- Setup a vertical flexbox container with 'flex flex-col'
 					- Align the items horizontally with 'items-center'
 					- Center the children text elements with 'text-center'
 				*/}
